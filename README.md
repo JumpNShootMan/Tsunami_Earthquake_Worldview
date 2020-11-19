@@ -1,2 +1,6 @@
-# Tsunami_Earthquake_Worldview
-TF Data Mining
+# TF Data Mining
+
+### Por:
+- Daniel Núñez Robinson
+- Renzo Perez Lozano
+- Andrés Pautrat Lertora
